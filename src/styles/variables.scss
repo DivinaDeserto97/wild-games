@@ -1,0 +1,27 @@
+// variables.scss
+$light-color: #1d9da4;
+$dark-color: green;
+/*
+
+
+light{
+color: 
+hover:
+}
+dark{
+color:
+hover:
+}
+
+Beispiele Farben:
+#1d9da4
+
+
+*/
+.btn-light {
+  background-color: $light-color;
+}
+
+.btn-dark {
+  background-color: $dark-color;
+}
